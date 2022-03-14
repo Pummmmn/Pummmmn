@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Otavio/Pum;
+- 👀 I’m interested in learning more and more about javascript
+- 🌱 I’m currently learning javascript, still a noob
+- 📫 You can contact me via email at oomjpp@gmail.com, via twitter at @pummmmn and my discord is Pum#5790 
